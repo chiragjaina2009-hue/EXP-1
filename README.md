@@ -44,32 +44,48 @@ CIRCUIT DIAGRAM:
 
 
 a.   KVL:
- 
+
+<img width="1136" height="557" alt="Screenshot 2026-11-02 132519" src="https://github.com/user-attachments/assets/40e6eedb-65d5-4433-aa22-97fd19aa5587" />
+
 
 
 b.  KCL:
  
+<img width="1121" height="543" alt="Screenshot 2026-11-02 132619" src="https://github.com/user-attachments/assets/0751b4c6-8d58-4a07-8753-efc0fe6bf4a6" />
 
 Calculation:
 
 a.   KVL:
- 
+
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/e1dfbe33-faf7-4aa6-8668-60311c46c62a" />
 
 
 b.  KCL:
 
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/53cfbdab-b6dd-4bf4-bb0c-27f4983076e9" />
 
 
 
 Tabulation:
 
 a.   KVL:
- 
+
+ | S.NO | RESISTANCE | VOLTAGE = CURRENT × RESISTANCE | PRACTICAL VALUE |
+|---|---|---|---|
+| 1 | R1 = 30 Ω | 0.556 × 30 | 16.67 V |
+| 2 | R2 = 50 Ω | 0.556 × 50 | 27.78 V |
+| 3 | R3 = 100 Ω | 0.556 × 100 | 55.56 V |
+| 4 | Total Voltage | V1 + V2 + V3 | 100 V |
 
 
 b.  KCL:
 
-
+| S.NO | CURRENT | CALCULATION | PRACTICAL VALUE |
+|---|---|---|---|
+| 1 | Total Current (IT) | 100 / 63.33 | 1.579 A |
+| 2 | Current through R2 (I2) | 52.63 / 50 | 1.053 A |
+| 3 | Current through R3 (I3) | 52.63 / 100 | 0.526 A |
+| 4 | Sum of Branch Currents | I2 + I3 | 1.579 A |
 
 RESULT:
 
